@@ -19,11 +19,7 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-/* change color to match */
-.header h1 .seo {
-    color: #ffffff;
-}
-/* added position */
+
 .header div {
     padding-top: 15px;
     margin-right: 20px;
