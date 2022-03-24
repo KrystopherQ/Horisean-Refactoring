@@ -19,15 +19,15 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/* change color to match */
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #ffffff;
 }
-
+/* added position */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
-    float: right;
+    position: static;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
