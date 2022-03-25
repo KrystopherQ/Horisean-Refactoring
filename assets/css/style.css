@@ -130,43 +130,49 @@ p {
     max-width: 150px;
 }
 
+/* change height auto */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
+    height: auto;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
 
+/* change height auto */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
+    height: auto;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
 
+/* change height auto */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
+    height: auto;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
 
+/* reduce img size */
 .search-engine-optimization img {
-    max-height: 200px;
+    max-height: 150px;
 }
 
+/* reduce img size */
 .online-reputation-management img {
-    max-height: 200px;
+    max-height: 150px;
 }
 
+/* reduce img size */
 .social-media-marketing img {
-    max-height: 200px;
+    max-height: 150px;
 }
 
 .search-engine-optimization h2 {
