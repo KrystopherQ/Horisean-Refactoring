@@ -1,19 +1,25 @@
-# <strong>HORISEAN REFACTORING</strong>
+# <strong>HORISEON REFACTORING</strong>
 
-## FIX ACCESSIBILITY ISSUES
+## **About**
+Horiseon is a company dedicated to help bring your online business to light. The page has been refactored
+to operate smoothly and to be more accessible.
 
-**ISSUES**<br>
-    1. Broken link not working <br>
-    2. Missing alt <br>
-    3. Screen display issues <br>
+## **NAVBAR**
+The navigation bar will redirect you in the page to the given source. For instance selecting *Search Engine Optimization* will redirect to its place in the page. 
 
-**FIXES** <br>
-Broken link missing id. Id was added to *search-engine-optimization* correcting issue with directory.<br>
-Alt added to each image for audio description for the nearly blind or blind.<br>
-Webpage was not displaying proportionately due to errors in css. Errors were corrected by removing, changing, and adding code.<br>
+![NavBar](assets\images\navbar.png)
 
-Website is corrected and now running properly. Ease of accessibility for those who are vision impaired.<br>
 
-To view the website please **[click here](https://krystopherq.github.io/Horisean-Refactoring/)**. <br>
-Repository can be Viewed **[here](https://github.com/KrystopherQ/Horisean-Refactoring)**.
+## **What Horiseon Offers**
 
+*Horiseon* offers multiple services. Referencing the image below *Horiseon* can and will help you with 
+Search Engine Optimization, Online Reputation Management, and Social Media Marketing.
+
+![Redir](assets\images\redir.png)
+
+## **What Horiseon Does**
+
+Seen on the right side of the page Horiseon will help with brand awarness as well as cost management. Along with new strategies to help bring new customers to your site.
+
+![LeadBr](assets\images\lgba.png)
+![CM](assets\images\cm.png)
