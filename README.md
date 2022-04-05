@@ -26,4 +26,4 @@ Seen on the right side of the page Horiseon will help with brand awarness as wel
 
 ## Deployed
 
-The refactored site can be visited 
+The refactored site can be visited [here.](https://krystopherq.github.io/Horisean-Refactoring/)
