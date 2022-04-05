@@ -7,7 +7,7 @@ to operate smoothly and to be more accessible.
 ## **NAVBAR**
 The navigation bar will redirect you in the page to the given source. For instance selecting *Search Engine Optimization* will redirect to its place in the page. 
 
-![NavBar](assets\images\navbar.png)
+![NavBar](https://github.com/KrystopherQ/Horisean-Refactoring/blob/main/assets/images/navbar.png)
 
 
 ## **What Horiseon Offers**
@@ -15,11 +15,11 @@ The navigation bar will redirect you in the page to the given source. For instan
 *Horiseon* offers multiple services. Referencing the image below *Horiseon* can and will help you with 
 Search Engine Optimization, Online Reputation Management, and Social Media Marketing.
 
-![Redir](assets\images\redir.png)
+![Redir](https://github.com/KrystopherQ/Horisean-Refactoring/blob/main/assets/images/redir.png)
 
 ## **What Horiseon Does**
 
 Seen on the right side of the page Horiseon will help with brand awarness as well as cost management. Along with new strategies to help bring new customers to your site.
 
-![LeadBr](assets\images\lgba.png)
-![CM](assets\images\cm.png)
+![LeadBr](https://github.com/KrystopherQ/Horisean-Refactoring/blob/main/assets/images/lgba.png)
+![CM](https://github.com/KrystopherQ/Horisean-Refactoring/blob/main/assets/images/cm.png)
