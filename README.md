@@ -23,3 +23,7 @@ Seen on the right side of the page Horiseon will help with brand awarness as wel
 
 ![LeadBr](https://github.com/KrystopherQ/Horisean-Refactoring/blob/main/assets/images/lgba.png)
 ![CM](https://github.com/KrystopherQ/Horisean-Refactoring/blob/main/assets/images/cm.png)
+
+## Deployed
+
+The refactored site can be visited 
